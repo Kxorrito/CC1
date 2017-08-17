@@ -4,15 +4,15 @@ main()
 
 {int a,b,suma;
 
-cout<<"\n ingrese numero a:";
-
-cin>>a;
-
-cout<<"\n ingrese numero b:";
+cout<<"\n ingrese b:";
 
 cin>>b;
 
-suma=a+b;
+cout<<"\n ingrese a:";
+
+cin>>a;
+
+suma=b+a;
 
 cout<<"\n la suma de "<<a<<"+"<<b<<" es:"<<suma;
 
